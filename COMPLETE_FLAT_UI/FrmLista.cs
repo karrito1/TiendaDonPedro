@@ -76,6 +76,11 @@ namespace COMPLETE_FLAT_UI
                 FrmUsuarios f = new FrmUsuarios();
                 f.ShowDialog();
             }
+            if (LblTitulo.Text == "Lista de Clientes")
+            {
+                FrmUsuarios f = new FrmUsuarios();
+                f.ShowDialog();
+            }
         }
 
         private void BtnEliminar_Click(object sender, EventArgs e)

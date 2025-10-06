@@ -109,7 +109,7 @@
             this.BtnGuardar.TabIndex = 34;
             this.BtnGuardar.Text = "Guardar";
             this.BtnGuardar.UseVisualStyleBackColor = false;
-            this.BtnGuardar.Click += new System.EventHandler(this.BtnGuardar_Click);
+        
             // 
             // TxtCorreo
             // 
@@ -142,6 +142,7 @@
             this.TxtNombre.Name = "TxtNombre";
             this.TxtNombre.Size = new System.Drawing.Size(358, 23);
             this.TxtNombre.TabIndex = 30;
+           
             // 
             // label5
             // 

@@ -58,9 +58,8 @@ namespace COMPLETE_FLAT_UI
             this.Close();
         }
 
-        private void BtnGuardar_Click(object sender, EventArgs e)
-        {
+       
 
-        }
+        
     }
 }
